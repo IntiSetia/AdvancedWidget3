@@ -8,7 +8,11 @@
 
 #Identitas
 Nama        : Inti Setia Ningtyas
+
 Kelas       : XII-RPL1
+
 No. Urut    : 23
+
 NIS         : 4369/1258.070
+
 Nama Sekolah: SMK Telkom Malang
